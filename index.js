@@ -28,9 +28,7 @@ export {default as linearClosed} from "./src/curve/linearClosed";
 export {default as linear} from "./src/curve/linear";
 export {default as monotone} from "./src/curve/monotone";
 export {default as natural} from "./src/curve/natural";
-export {default as stepAfter} from "./src/curve/stepAfter";
-export {default as stepBefore} from "./src/curve/stepBefore";
-export {default as step} from "./src/curve/step";
+export {default as step, stepAfter, stepBefore} from "./src/curve/step";
 
 export {default as stack} from "./src/stack";
 export {default as offsetExpand} from "./src/offset/expand";
