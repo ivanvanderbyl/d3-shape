@@ -33,7 +33,10 @@ export {default as stepBefore} from "./src/curve/stepBefore";
 export {default as step} from "./src/curve/step";
 
 export {default as stack} from "./src/stack";
+export {default as offsetZero} from "./src/offset/zero";
+export {default as offsetSilhouette} from "./src/offset/silhouette";
 export {default as orderAscending} from "./src/order/ascending";
+export {default as orderDefault} from "./src/order/default";
 export {default as orderDescending} from "./src/order/descending";
 export {default as orderInsideOut} from "./src/order/insideOut";
 export {default as orderReverse} from "./src/order/reverse";
